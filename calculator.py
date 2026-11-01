@@ -1,4 +1,4 @@
-def sum_numbers(numbers):
-    return sum(numbers)
+def sum_numbers(a, b):
+    return a + b
 
-print(sum_numbers([1, 2, 3, 4, 5])) 
+print(sum_numbers(5, 3))
